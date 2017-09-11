@@ -1,0 +1,19 @@
+{
+  "name": "node-volume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --fix ./lib utils.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Alberto Schiabel <github.com/jkomyno>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "jest": "^21.0.2"
+  }
+}

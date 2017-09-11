@@ -1,0 +1,7 @@
+{
+    "extends": "airbnb-base",
+    "rules": {
+      "radix": "off",
+      "global-require": "off"
+    }
+}
